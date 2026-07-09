@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tabela_BrasileiroCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68565a00cff558aa11add0ed5783ef2d8f7be050")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c830b8e9c0b621b9ac289e5c50ee15f501fbb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tabela_BrasileiroCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tabela_BrasileiroCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
