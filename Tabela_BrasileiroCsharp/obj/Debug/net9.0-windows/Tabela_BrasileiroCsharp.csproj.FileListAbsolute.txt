@@ -1,0 +1,17 @@
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\bin\Debug\net9.0-windows\Tabela_BrasileiroCsharp.exe
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\bin\Debug\net9.0-windows\Tabela_BrasileiroCsharp.deps.json
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\bin\Debug\net9.0-windows\Tabela_BrasileiroCsharp.runtimeconfig.json
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\bin\Debug\net9.0-windows\Tabela_BrasileiroCsharp.dll
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\bin\Debug\net9.0-windows\Tabela_BrasileiroCsharp.pdb
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.Form1.resources
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.csproj.GenerateResource.cache
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.AssemblyInfo.cs
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.sourcelink.json
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.dll
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\refint\Tabela_BrasileiroCsharp.dll
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.pdb
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\Tabela_BrasileiroCsharp.genruntimeconfig.cache
+C:\Users\Leandro\Documents\GitHub\Tabela_Brasileiro2026_C-\Tabela_BrasileiroCsharp\obj\Debug\net9.0-windows\ref\Tabela_BrasileiroCsharp.dll
